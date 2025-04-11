@@ -21,5 +21,5 @@ A simple and interactive **Body Mass Index (BMI) Calculator** built using **Reac
 - **CSS** (custom styling)
 
 ## Author
-Rana Huzaifa
+Rana Huzaifa <br>
 Made with ❤️ by Rana Huzaifa
