@@ -19,3 +19,7 @@ A simple and interactive **Body Mass Index (BMI) Calculator** built using **Reac
 - **React** (Functional components + Hooks)
 - **JavaScript**
 - **CSS** (custom styling)
+
+## Author
+Rana Huzaifa
+Made with ❤️ by Rana Huzaifa
