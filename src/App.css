@@ -13,6 +13,7 @@ body {
 /* Main app container */
 .app {
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
     height: 100%;
@@ -103,4 +104,16 @@ p {
     font-size: 16px;
     font-weight: bold;
     color: #555;
+}
+
+.ownership {
+    font-size: 12px;
+
+    && b {
+        color: red;
+    }
+}
+
+span {
+    color: green;
 }

@@ -72,6 +72,10 @@ function App() {
           <h3>YOUR BMI IS: {bmi}</h3>
           <p>{message}</p>
         </div>
+
+      </div>
+      <div className="ownership">
+        <h1>Made with <b>&#10084;</b>  By <span>Rana Huzaifa</span></h1>
       </div>
     </div>
   );
